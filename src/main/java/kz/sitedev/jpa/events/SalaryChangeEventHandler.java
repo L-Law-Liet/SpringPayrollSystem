@@ -1,7 +1,6 @@
-package kz.iitu.demo.events;
+package kz.sitedev.jpa.events;
 
-import kz.iitu.demo.Employee;
-import org.springframework.context.ApplicationEvent;
+import kz.sitedev.jpa.entity.Employee;
 import org.springframework.context.ApplicationListener;
 import org.springframework.stereotype.Component;
 

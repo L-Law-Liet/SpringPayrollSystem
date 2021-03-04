@@ -1,4 +1,4 @@
-package kz.iitu.demo;
+package kz.sitedev.jpa;
 
 
 public enum EmployeeType {
